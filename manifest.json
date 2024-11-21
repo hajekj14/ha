@@ -1,0 +1,10 @@
+{
+    "domain": "sgp30_sensor",
+    "name": "SGP30 Sensor",
+    "version": "1.0",
+    "requirements": [
+        "pimoroni-sgp30",
+        "smbus2"
+    ],
+    "codeowners": ["@your_github_username"]
+  }
